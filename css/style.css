@@ -1,0 +1,19 @@
+.js-text-display {
+    display: none;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.js-life {
+    width: 5%;
+}
